@@ -1,0 +1,8 @@
+pynacl
+py-cord[voice]
+pip
+yt-dlp
+colorlog
+cffi --only-binary all; sys_platform == 'win32'
+discord.py
+flask
